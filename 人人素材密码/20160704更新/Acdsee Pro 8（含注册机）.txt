@@ -1,0 +1,20 @@
+ACDSee Pro 8 x86 Edition（简体中文）：
+http://dl2.cn.acdsystems.com/acdseepro/za/acdsee-pro-8-32bit.exe
+
+ACDSee Pro 8 x64 Edition（简体中文）：
+http://dl2.cn.acdsystems.com/acdseepro/za/acdsee-pro-8-64bit.exe
+本人只提供英文版，不提供中文版，要中文版的同学请在官网自行下载
+如果不需要汉化，可直接安装英文版，运行注册机。
+
+先安装英文版 Pro 8.0，不用启动即可，win+r 输入regedit进入注册表编辑器将 [HKEY_LOCAL_MACHINE\SOFTWARE\ACD Systems\ACDSee Pro\80\LClient] 里的pid2导出， 即找到LClient文件夹 右键导出放在桌面 随后删除英文版 8.0，安装简体中文版 8.0，等安装好了中文版之后不要打开中文版的，导入你刚才备份的注册表文件，双击注册表导入就可以了。
+使用注册机算出序列号输入，脱机激活。
+最后用防火墙在入站和出战规则中限制联网防止出现什么盗版软件受害者，或者添加hosts：
+127.0.0.1 activation.cloud.techsmith.com
+127.0.0.1 oscount.techsmith.com 
+127.0.0.1 acdid.acdsystems.com
+
+链接：http://pan.baidu.com/s/1hqy6t7m 密码：bn16 注册机
+链接：http://pan.baidu.com/s/1o6iLbYi 密码：tcw8 32位
+链接：http://pan.baidu.com/s/1bn4gknP 密码：b1re 64位
+全部解压密码查询地址http://51tutu.com/rrsc/    终身会员购买地址https://zyjpsc.taobao.com
+全部解压密码查询地址http://51tutu.com/rrsc/    终身会员购买地址https://zyjpsc.taobao.com
